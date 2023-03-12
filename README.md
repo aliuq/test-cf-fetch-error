@@ -4,7 +4,7 @@ Based on my testing with `Windows 11`, `WSL2`, and `GitHub Codespaces`, it appea
 
 Node version:
 
-+ WSL2 Ubuntu: `v16.15.0` and `v19.0.0
++ WSL2 Ubuntu: `v16.15.0` and `v19.0.0`
 + WSL2 Ubuntu-20.04: `v19.7.0`
 + Windows 11: `v16.14.2`
 + Github Codespaces: `v19.7.0`
